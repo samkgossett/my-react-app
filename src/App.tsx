@@ -10,7 +10,8 @@ function App() {
     <>
       <h1>Samantha K. Gossett</h1>
       <div className="card">
-        <p>Hello! Empty app.</p>
+        <p>Hello!</p>
+        <p>content here.</p>
       </div>
     </>
   )
